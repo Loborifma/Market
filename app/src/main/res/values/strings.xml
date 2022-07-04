@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="search_hint">Enter name of product</string>
+    <string name="search_button">Find product</string>
+    <string name="cost">Cost</string>
+    <string name="name">Name</string>
+</resources>
